@@ -105,8 +105,8 @@ export default function Home() {
             rel="noreferrer"
           >
             Aquarium Photo
-          </a>
-          <a href="http://localhost:3000/artwork/247016">sample art</a>
+          </a><br></br>
+          <a href="/artwork/247016">sample art</a>
         </Col>
       </Row>
       <section className="portfolio">
